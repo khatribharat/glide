@@ -1,0 +1,4 @@
+package: .
+import:
+        - package: github.com/khatribharat/goapp-undertaker
+        - package: github.com/khatribharat/goapp-brock
